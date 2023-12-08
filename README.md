@@ -1,1 +1,1 @@
-Nice responsive blog website with editable features, it also has comment features.
+Nice responsive blog website with editable features and comment sections for each post.
